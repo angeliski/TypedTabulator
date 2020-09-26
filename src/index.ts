@@ -1,3 +1,5 @@
+import Tabulator from 'tabulator-tables'
+
 let tableConfig: Tabulator.Options = {
   data: [
     { id: 1, name: "Oli Bob's \"", location: "United Kingdom", gender: "male", rating: 1, col: "red" },

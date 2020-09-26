@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/Jojoshua/TypedTabulator#readme",
   "dependencies": {
-    "tabulator-tables": "4.2.7"
+    "tabulator-tables": "4.8.0"
   },
   "devDependencies": {
-    "@types/tabulator-tables": "4.2.4",
+    "@types/tabulator-tables": "^4.8.0",
     "clean-webpack-plugin": "2.0.1",
     "ts-loader": "5.3.3",
     "typescript": "3.4.5",
